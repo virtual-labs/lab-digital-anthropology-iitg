@@ -1,0 +1,96 @@
+{
+    "broadArea": {
+        "name": "",
+        "link": ""
+    },
+    "lab": "Digital Anthropology Lab",
+    "deployLab": true,
+    "phase": 3,
+    "collegeName": "IITG",
+    "baseUrl": "da-iitg.vlabs.ac.in",
+    "introduction": "A Digital Anthropology Laboratory is a tool for distance learning and/or experimentation that allows people to share knowledge and many other resources. It provides a suitable environment to extend, improve, integrate, refine, and assist the learning and/or experimentation process of Anthropology, thus contributing to an increase of the effectiveness of scientific research and widening the use of scarce or costly equipment's.",
+    "experiments": [
+                        {
+                          "name": "Identification of Prehistoric handaxe",
+                          "short-name": "prehistoric-handaxe",
+                          "repo": "https://github.com/virtual-labs/exp-prehistoric-handaxe-iitg",
+                          "tag": "v1.0.0",
+                          "deploy": true
+                         },
+
+                        {
+                          "name": "Identification of finger print patterns",
+                          "short-name": "fingerprint-patterns",
+                          "repo": "https://github.com/virtual-labs/exp-fingerprint-patterns-iitg",
+                          "tag": "v1.0.0",
+                          "deploy": true
+                         },
+
+                        {
+                          "name": "Pottery-Virtual Reconstruction of Shapes",
+                          "short-name": "pottery",
+                          "repo": "https://github.com/virtual-labs/exp-pottery-iitg",
+                          "tag": "v1.0.0",
+                          "deploy": true
+                         },
+
+                        {
+                          "name": "Calculation of Indices",
+                          "short-name": "indices",
+                          "repo": "https://github.com/virtual-labs/exp-indices-iitg",
+                          "tag": "v1.0.0",
+                          "deploy": true
+                         },
+
+                        {
+                          "name": "Obtain the main line formula ",
+                          "short-name": "main-line-formula",
+                          "repo": "https://github.com/virtual-labs/exp-main-line-formula-iitg",
+                          "tag": "v1.0.0",
+                          "deploy": true
+                         },
+
+                        {
+                          "name": "Skeleton - Assembling, Identification & labeling",
+                          "short-name": "skeleton",
+                          "repo": "https://github.com/virtual-labs/exp-skeleton-iitg",
+                          "tag": "v1.0.0",
+                          "deploy": true
+                         },
+
+                        {
+                          "name": "Blood Group Techniques",
+                          "short-name": "blood-group-techniques",
+                          "repo": "https://github.com/virtual-labs/exp-blood-group-techniques-iitg",
+                          "tag": "v1.0.0",
+                          "deploy": true
+                         },
+
+                        {
+                          "name": "Hunting, Fishing, Gathering Tools",
+                          "short-name": "gathering-tools",
+                          "repo": "https://github.com/virtual-labs/exp-gathering-tools-iitg",
+                          "tag": "v1.0.0",
+                          "deploy": true
+                         },
+
+                        {
+                          "name": "Mendel's Law",
+                          "short-name": "mendels-law",
+                          "repo": "https://github.com/virtual-labs/exp-mendels-law-iitg",
+                          "tag": "v1.0.0",
+                          "deploy": true
+                         }
+                   ],
+    "targetAudience": {
+        "UG": ["B. Tech./ B.E in Anthropology Department"],
+        "PG": ["MS/Ph. D. Beginners in Anthropology Department"]
+    },
+    "objective": "• Reconstruction of a handaxe & identification of shape of flakes <br/>• Calculation of various craniometric indices <br/>• Assembling , Identifying & labeling different parts of a skeleton <br/>• Identification of Blood group <br/>• Identification of Fishing tools",
+    "courseAlignment": {
+        "description": "The lab contents are chosen such that it covers the syllabi of the Digital Anthropology Lab course of various universities to considerable extent.",
+        "universities": ["• Dibrugarh University, Assam",
+                         "Gauhati University, Assam",
+                         "Madhab Choudhary College (MCC), Barpeta, Assam"]
+    }
+}
