@@ -14,63 +14,63 @@
       "name": "Identification of Prehistoric handaxe",
       "short-name": "prehistoric-handaxe",
       "repo": "https://github.com/virtual-labs/exp-prehistoric-handaxe-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Identification of finger print patterns",
       "short-name": "fingerprint-patterns",
       "repo": "https://github.com/virtual-labs/exp-fingerprint-patterns-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Pottery-Virtual Reconstruction of Shapes",
       "short-name": "pottery",
       "repo": "https://github.com/virtual-labs/exp-pottery-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Calculation of Indices",
       "short-name": "indices",
       "repo": "https://github.com/virtual-labs/exp-indices-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Obtain the main line formula ",
       "short-name": "main-line-formula",
       "repo": "https://github.com/virtual-labs/exp-main-line-formula-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Skeleton - Assembling, Identification & labeling",
       "short-name": "skeleton",
       "repo": "https://github.com/virtual-labs/exp-skeleton-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Blood Group Techniques",
       "short-name": "blood-group-techniques",
       "repo": "https://github.com/virtual-labs/exp-blood-group-techniques-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Hunting, Fishing, Gathering Tools",
       "short-name": "gathering-tools",
       "repo": "https://github.com/virtual-labs/exp-gathering-tools-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Mendel's Law",
       "short-name": "mendels-law",
       "repo": "https://github.com/virtual-labs/exp-mendels-law-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
@@ -139,5 +139,5 @@
     },
     { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
   ],
-  "version": "v1.0.1"
+  "version": "v1.0.2"
 }
