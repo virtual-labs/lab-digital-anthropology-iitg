@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Physical Sciences",
-    "link": "https://www.vlab.co.in/broad-area-physical-sciences"
+    "link": "https://www.vlab.co.in/broad-area-physical-sciences",
+    "code": "PHYSCI"
   },
   "lab": "Digital Anthropology Lab",
+  "lab_display_name": "Digital Anthropology Lab",
   "deployLab": true,
   "phase": 3,
   "collegeName": "IITG",
